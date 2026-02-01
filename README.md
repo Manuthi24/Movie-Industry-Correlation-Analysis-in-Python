@@ -1,4 +1,13 @@
 # 🎬 Movie Industry Exploratory Data Analysis (EDA)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-green)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-Correlation%20Plots-blueviolet)
+![Statistics](https://img.shields.io/badge/Statistics-Correlation%20Analysis-yellow)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
+
 
 ## 📌 Project Overview
 This project is a **technical Exploratory Data Analysis (EDA)** focused on identifying the variables that most significantly impact the **gross revenue of films**.
